@@ -18,7 +18,7 @@ This analysis was based in Python 3.7, and used the following libraries:
 
 Prior to running the application, the following libraries must be installed:
 
-![libraries.png]()
+![libraries.png](https://github.com/hillmanj1995/Module-3-Financial-Analysis-with-Pandas-/blob/main/Challenge_Code/images/libraries.png)
 
 ---
 
@@ -35,29 +35,29 @@ The last phase was the analysis portion.  The Analyst set out to determine arbit
 
 Early Stage Closing Prices:
 
-![early_close]()
+![early_close](https://github.com/hillmanj1995/Module-3-Financial-Analysis-with-Pandas-/blob/main/Challenge_Code/images/early_close.png)
 
 Middle Stage Closing Prices:
 
-![middle_close]()
+![middle_close](https://github.com/hillmanj1995/Module-3-Financial-Analysis-with-Pandas-/blob/main/Challenge_Code/images/middle_close.png)
 
 Late Stage Closing Prices:
 
-![End_close]()
+![End_close](https://github.com/hillmanj1995/Module-3-Financial-Analysis-with-Pandas-/blob/main/Challenge_Code/images/End_close.png)
 
 From those visualizations and values, The Analyst was able to calculate the arbitrage spread and profitable trades over the allotted timeframe.  The Analyst then summed the profitable trades to show the total amount of profits for the various timeframes at early, middle, and late stages of the dataset.  Those values and code are shown below:
 
 Early Stage Profits:
 
-![early_profits]()
+![early_profits](https://github.com/hillmanj1995/Module-3-Financial-Analysis-with-Pandas-/blob/main/Challenge_Code/images/early_profits.png)
 
 Middle Stage Closing Prices:
 
-![middle_profits]()
+![middle_profits](https://github.com/hillmanj1995/Module-3-Financial-Analysis-with-Pandas-/blob/main/Challenge_Code/images/middle_profits.png)
 
 Late Stage Closing Prices:
 
-![late_profits]()
+![late_profits](https://github.com/hillmanj1995/Module-3-Financial-Analysis-with-Pandas-/blob/main/Challenge_Code/images/late_profits.png)
 
 ## Summary
 By looking at the profits, it is apparent that the opportunity for arbitrage profit was highest in the beginning of the year ($14,148 at the early date) and progressively decreased as time went on.
